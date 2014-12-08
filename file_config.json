@@ -1,6 +1,5 @@
-[
-  {
-    room_location: "rooms",
-    item_location: "items",
-  }
-]
+{
+  "room_location": "data/rooms",
+  "item_location": "data/items",
+  "character_location": "data/characters"
+}
